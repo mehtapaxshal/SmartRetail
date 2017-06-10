@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<retail>
+	<store item ="milk">
+		<quantity>2</quantity>
+		<price>3.5</price>
+		<type>dairy</type>
+	</store>
+	<store item ="whey protein">
+		<quantity>1</quantity>
+		<price>57.99</price>
+		<type>fitness</type>
+	</store>
+	<store item ="Puma Shoes">
+		<quantity>1</quantity>
+		<price>48.90</price>
+		<type>shoe</type>
+	</store>
+	<store item ="Brown Bread">
+		<quantity>3</quantity>
+		<price>5.00</price>
+		<type>fitness</type>
+	</store>
+	<store item ="Lucerene Butter">
+		<quantity>1</quantity>
+		<price>4.5</price>
+		<type>fitness</type>
+	</store>
+	<store item ="Kissan Jam">
+		<quantity>1</quantity>
+		<price>2.79</price>
+		<type>fitness</type>
+	</store>
+
+</retail>
